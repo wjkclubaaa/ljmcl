@@ -14,6 +14,20 @@ A personal, non-commercial third-party launcher for Minecraft: Java Edition (WPF
 A personal launcher used by the developer and a few friends. It does not redistribute the
 game, is not sold, and does not bundle Mojang/Microsoft assets.
 
+## 界面 / Screenshots
+
+| 主页 Home | 资源中心 Resources |
+| --- | --- |
+| ![home](docs/home.png) | ![resources](docs/resources.png) |
+
+| 好友联机（开服 / 成员与权限 / 插件）|
+| --- |
+| ![lan](docs/lan.png) |
+
+| 入场动画 | 微软授权（设备码） |
+| --- | --- |
+| ![intro](docs/intro.png) | ![sign-in](docs/microsoft-sign-in.png) |
+
 ## 微软账号登录 / Microsoft account sign-in
 
 应用注册方式（公开信息）：
@@ -37,23 +51,11 @@ game, is not sold, and does not bundle Mojang/Microsoft assets.
 
 如果第 5 步无法确认账号拥有 Minecraft: Java Edition，启动器**拒绝启动游戏**。
 
-Screenshots of the flow: [`docs/microsoft-sign-in.png`](docs/microsoft-sign-in.png)
-
 Security notes:
 
 - 不收集、不上传用户的微软账号密码（页面上从不输入密码，全部在微软官方页面完成）。
 - 不把令牌发送给任何第三方；refresh token 仅以 Windows DPAPI 加密保存在本机当前用户下。
 - 不使用他人或官方启动器的 Client ID，不伪造客户端标识。
-
-## 截图 / Screenshots
-
-| 主页 | 资源中心 |
-| --- | --- |
-| ![home](docs/home.png) | ![resources](docs/resources.png) |
-
-| 入场动画 | 微软授权（设备码） |
-| --- | --- |
-| ![intro](docs/intro.png) | ![sign-in](docs/microsoft-sign-in.png) |
 
 ## 说明 / Notes
 
