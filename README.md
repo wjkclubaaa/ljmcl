@@ -5,6 +5,17 @@ A personal, non-commercial third-party launcher for Minecraft: Java Edition (WPF
 
 <p align="center"><img src="docs/logo.png" width="160" alt="Linjian logo"></p>
 
+## 下载 / Download
+
+**[⬇ 下载最新版本](https://github.com/wjkclubaaa/ljmcl/releases/latest)** — 单文件 exe，免安装；启动后会自动检查更新。
+
+## 支持作者 / Support
+
+启动器完全免费、无广告、无会员墙，所有功能对所有人一致。
+
+如果它帮到了你，欢迎在爱发电支持我继续维护：<https://afdian.com/a/ljmcl>
+（赞助完全自愿，不影响任何功能）
+
 ## 这个项目是什么 / What it is
 
 - 个人开发的启动器，供本人和好友使用；不收费、不分发游戏本体。
